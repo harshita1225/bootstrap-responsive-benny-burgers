@@ -4,7 +4,7 @@
 
 ## Link
 
-- Live Site URL: [https://harshita1225.github.io/bootstrap-responsive-benny-burgers/](https://harshita1225.github.io/bootstrap-responsive-benny-burgers/)
+- Live Site URL: []()
 
 ## Desktop:
 
